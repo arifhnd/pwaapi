@@ -1,4 +1,6 @@
-[{"id":1,"name":"Emerald green tree boa","category":"Seven-banded armadillo"},
+{
+"products": [
+ {"id":1,"name":"Emerald green tree boa","category":"Seven-banded armadillo"},
 {"id":2,"name":"Mouflon","category":"Olive baboon"},
 {"id":3,"name":"Great egret","category":"Mallard"},
 {"id":4,"name":"Cape fox","category":"Kookaburra, laughing"},
@@ -17,4 +19,6 @@
 {"id":17,"name":"Blackbuck","category":"Nilgai"},
 {"id":18,"name":"Kangaroo, jungle","category":"Common dolphin"},
 {"id":19,"name":"Helmeted guinea fowl","category":"Langur, common"},
-{"id":20,"name":"Rabbit, eastern cottontail","category":"Black-collared barbet"}]
+{"id":20,"name":"Rabbit, eastern cottontail","category":"Black-collared barbet"}
+]
+}
